@@ -1,6 +1,6 @@
 # nick aldwin
 
-senior software engineer @ [teikametrics](https://github.com/teikametrics)
+staff software engineer (L6) @ [teikametrics](https://github.com/teikametrics)
 
 [@njaldwin [twitter]](https://twitter.com/njaldwin)
 
