@@ -1,6 +1,6 @@
 # nick aldwin
 
-staff software engineer (L6) @ [teikametrics](https://github.com/teikametrics)
+senior staff software engineer (L6) @ [thrive global](https://github.com/thriveglobal)
 
 [@njaldwin [twitter]](https://twitter.com/njaldwin)
 
@@ -10,6 +10,6 @@ staff software engineer (L6) @ [teikametrics](https://github.com/teikametrics)
 
 [@nickaldwin [instagram]](https://instagram.com/nickaldwin)
 
-[//nick.aldw.in [website]](http://nick.aldw.in/)
+[//nick.aldw.in [website]](https://nick.aldw.in/)
 
 [//fens.dev [blog]](https://fens.dev/)
