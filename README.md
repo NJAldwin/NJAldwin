@@ -1,6 +1,6 @@
 # nick aldwin
 
-senior staff software engineer (L6) @ [thrive global](https://github.com/thriveglobal)
+senior staff software engineer (L6) most recently at [thrive global](https://github.com/thriveglobal)
 
 [@njaldwin [twitter]](https://twitter.com/njaldwin)
 
